@@ -117,7 +117,7 @@ def key_input(str):
 
 
 if __name__ == "__main__":
-    pwd = "123456" # 输入密码
+    pwd = "Abc123456" # 输入密码
     time.sleep(5)
     key_press(0x1C)  # Enter 键
     time.sleep(2)
